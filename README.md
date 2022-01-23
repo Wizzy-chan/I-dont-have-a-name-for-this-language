@@ -7,7 +7,7 @@ Constants:
     Constants must not include spaces, share a name with a keyword or another constant - if more than one constant has the same name, the latest one will be used.  
     Constants cannot be changed.  
   
-Literals:
+Literals:  
     A string or integer [ TODO: ADD FLOAT SUPPORT ] literal will just be pushed to the stack.  
     A string literal is *any* text between "" or ''.  
     An integer literal is just a number.  
